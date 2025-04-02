@@ -1,4 +1,5 @@
 Sentiment Analysis & Web Scraping for Mobile Legends
+
 This project includes sentiment analysis and web scraping of reviews from the Google Play Store for the game Mobile Legends.
 
 Key Features:
@@ -8,25 +9,35 @@ Key Features:
 4. Data Visualization – Analyzes sentiment patterns using Matplotlib and Seaborn
 
 📂 Project Structure:
+
 bash
+
 Copy
 📁 Sentiment_Analysis_Auliyya.ipynb  # Notebook for sentiment analysis  
 📁 Scraping_Mobile_Legends_Reviews.ipynb  # Notebook for web scraping review data  
 📁 requirements.txt  # Required dependencies  
+
 How to Run:
+
 Clone this repository:
 
 bash
+
 Copy
-git clone https://github.com/username/repository-name.git
+
+git clone https://github.com/auriya11/sentimentanalysisMobileLegends.git
 Install dependencies:
 
+
 bash
+
 Copy
+
 pip install -r requirements.txt
+
 Run the notebooks in Jupyter Notebook or Google Colab.
 
-✨ Technologies Used:
+Technologies Used:
 🔹 Python, Pandas, NumPy
 🔹 TensorFlow, Scikit-learn, NLTK
 🔹 Google Play Scraper
